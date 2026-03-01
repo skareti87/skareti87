@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**181149/181149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**skareti87/skareti87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-<img  src="https://raw.githubusercontent.com/181149/181149/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/skareti87/skareti87/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
