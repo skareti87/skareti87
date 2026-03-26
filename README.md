@@ -201,11 +201,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skareti87/skareti87/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skareti87/skareti87/output/pacman-contribution-graph.svg">
-  <img  src="https://raw.githubusercontent.com/skareti87/skareti87/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</picture>
+<img  src="https://raw.githubusercontent.com/skareti87/skareti87/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 
 ###
 
