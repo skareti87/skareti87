@@ -10,6 +10,9 @@
 
 <p align="left">- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning AI/ML</p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
